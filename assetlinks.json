@@ -1,8 +1,5 @@
 [{
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "com.fourbic.umzima",
-      "sha256_cert_fingerprints": ["0C:E8:46:21:22:58:AF:06:FC:D0:E2:19:48:87:32:D2:F0:AD:A3:D5:50:63:E9:1B:46:2F:31:2F:AF:23:2A:E5"]
-    }
-  }]
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.fourbic.umzima",
+               "sha256_cert_fingerprints": ["0C:E8:46:21:22:58:AF:06:FC:D0:E2:19:48:87:32:D2:F0:AD:A3:D5:50:63:E9:1B:46:2F:31:2F:AF:23:2A:E5"] }
+}]
